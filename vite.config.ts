@@ -1,14 +1,14 @@
-import { glob } from "glob";
-import { defineConfig } from "vite";
-import injectHTML from "vite-plugin-html-inject";
+import { glob } from 'glob'
+import { defineConfig } from 'vite'
+import injectHTML from 'vite-plugin-html-inject'
 
 export default defineConfig({
-  root: "src",
+  root: 'src',
   build: {
     rollupOptions: {
-      input: glob.sync("./src/*.html"),
+      input: glob.sync(['./index.html', './src/*.html'])
     },
-    outDir: "../dist",
+    outDir: '../dist'
   },
-  plugins: [injectHTML()],
-});
+  plugins: [injectHTML()]
+})
