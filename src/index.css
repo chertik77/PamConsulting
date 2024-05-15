@@ -1,0 +1,14 @@
+@import url('node_modules/modern-normalize/modern-normalize.css');
+@import url('./css/reset.css');
+@import url('./css/fonts.css');
+
+:root {
+  font-synthesis: none;
+  text-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: 'Avenir Next', sans-serif;
+}

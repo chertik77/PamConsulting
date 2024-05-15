@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'Avenir Next';
+  font-weight: 400;
+  font-display: swap;
+  src: local('Avenir Next'),
+    url('../fonts/AvenirNext-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Avenir Next';
+  font-weight: 500;
+  font-display: swap;
+  src: local('Avenir Next'),
+    url('../fonts/AvenirNext-Medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Avenir Next';
+  font-weight: 600;
+  font-display: swap;
+  src: local('Avenir Next'),
+    url('../fonts/AvenirNext-DemiBold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Avenir Next';
+  font-weight: 700;
+  font-display: swap;
+  src: local('Avenir Next'),
+    url('../fonts/AvenirNext-Bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: Montserrat;
+  font-weight: 500;
+  font-display: swap;
+  src: local('Montserrat'),
+    url('../fonts/Montserrat-Medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: Montserrat;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Montserrat'),
+    url('../fonts/Montserrat-SemiBold.woff2') format('woff2');
+}
