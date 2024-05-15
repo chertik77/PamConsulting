@@ -6,7 +6,7 @@ export default defineConfig({
   root: 'src',
   build: {
     rollupOptions: {
-      input: glob.sync(['./index.html', './src/*.html'])
+      input: glob.sync('./src/*.html')
     },
     outDir: '../dist'
   },
