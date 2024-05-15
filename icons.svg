@@ -1,0 +1,27 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-contact_tel_icon" viewBox="0 0 33 32">
+<path d="M0.571 0h32v32h-32v-32z"></path>
+</symbol>
+<symbol id="icon-email" viewBox="0 0 32 32">
+<path d="M0 0h32v32h-32v-32z"></path>
+</symbol>
+<symbol id="icon-haze-1-1" viewBox="0 0 32 32">
+<path d="M0 0h32v32h-32v-32z"></path>
+</symbol>
+<symbol id="icon-house-1-1" viewBox="0 0 32 32">
+<path d="M0 0h32v32h-32v-32z"></path>
+</symbol>
+<symbol id="icon-human-resources-1" viewBox="0 0 32 32">
+<path d="M0 0h32v32h-32v-32z"></path>
+</symbol>
+<symbol id="icon-money-bag-1" viewBox="0 0 32 32">
+<path d="M0 0h32v32h-32v-32z"></path>
+</symbol>
+<symbol id="icon-menu" viewBox="0 0 44 32">
+<path fill="#fff" style="fill: var(--color1, #fff)" d="M0.533 0h42.667v2.133h-42.667v-2.133z"></path>
+<path fill="#fff" style="fill: var(--color1, #fff)" d="M0.533 14.933h42.667v2.133h-42.667v-2.133z"></path>
+<path fill="#fff" style="fill: var(--color1, #fff)" d="M0.533 29.867h42.667v2.133h-42.667v-2.133z"></path>
+</symbol>
+</defs>
+</svg>
