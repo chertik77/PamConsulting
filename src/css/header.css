@@ -1,0 +1,47 @@
+.header {
+  padding-block: 20px;
+  background: linear-gradient(90deg, #53269d 0%, var(--purple) 100.2%);
+
+  > .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  ul {
+    display: flex;
+    gap: 28px;
+
+    @media only screen and (width < 1440px) {
+      display: none;
+    }
+
+    > li > a {
+      color: var(--white);
+      font-weight: 500;
+      line-height: 1.4;
+      text-transform: uppercase;
+    }
+  }
+}
+
+.header-actions-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 60px;
+}
+
+.header-button {
+  padding-block: 9px;
+  padding-inline: 24px;
+
+  @media only screen and (width < 768px) {
+    display: none;
+  }
+}
+
+.header-button-menu {
+  @media only screen and (width >= 1440px) {
+    display: none;
+  }
+}
